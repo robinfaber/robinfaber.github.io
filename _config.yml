@@ -8,10 +8,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   and working hard to develop the my skills to become a data scientist.
   <br><br>
   <a href="https://www.linkedin.com/in/robinfaber/">
-   <svg src="/images/linkedin.svg" alt="lkinkedin icon style="width:32px;height:32px;">
+   <img src="/images/linkedin.svg" alt="lkinkedin icon" height="32" width="32">
   </a>
   <a href="https://github.com/robinfaber">
-    <svg src="/images/github.svg" alt="github icon style="width:32px;height:32px;">
+    <img src="/images/github.svg" alt="github icon" height="32" width="32">
   </a> 
   
 theme: jekyll-theme-minimal
