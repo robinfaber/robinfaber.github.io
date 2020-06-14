@@ -1,5 +1,5 @@
 title: Robin Faber # your name (or website title) here
-logo: "/images/16825652.png?raw=true" # your photo (or logo) here
+logo: "/images/16825652_2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   4+ years of data analyst and research analyst experience in the UK and The Netherlands. 
   I hold a Master's Degree in Communication Science from the Vrije Universiteit Amsterdam.
@@ -7,7 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently, I'm working as a data analyst in the financial sector, 
   and working hard to develop the my skills to become a data scientist.
   <br><br>
-  <a href="https://www.linkedin.com/in/robinfaber/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/robinfaber/">
+    <img src="/images/linkedin.svg" alt="lkinkedin icon style="width:32px;height:32px;">
+   </a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-169339535-1 # your Google Analytics tracking ID here
